@@ -29,3 +29,14 @@
   font-size: 14px;
   margin: 10px 0;
 }
+
+.student{
+  font-family: Arial, sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.student p{
+  margin: 0;
+}
